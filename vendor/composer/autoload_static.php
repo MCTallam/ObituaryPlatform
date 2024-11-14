@@ -334,8 +334,8 @@ class ComposerStaticInit589cc0f65c3aaa7d4e9024d545bc1974
         ),
         'Psr\\Http\\Message\\' => 
         array (
-            0 => __DIR__ . '/..' . '/psr/http-message/src',
-            1 => __DIR__ . '/..' . '/psr/http-factory/src',
+            0 => __DIR__ . '/..' . '/psr/http-factory/src',
+            1 => __DIR__ . '/..' . '/psr/http-message/src',
         ),
         'Psr\\Http\\Client\\' => 
         array (
@@ -510,6 +510,8 @@ class ComposerStaticInit589cc0f65c3aaa7d4e9024d545bc1974
 
     public static $classMap = array (
         'App\\Http\\Controllers\\Controller' => __DIR__ . '/../..' . '/app/Http/Controllers/Controller.php',
+        'App\\Http\\Controllers\\ObituaryController' => __DIR__ . '/../..' . '/app/Http/Controllers/ObituaryController.php',
+        'App\\Models\\Obituary' => __DIR__ . '/../..' . '/app/Models/Obituary.php',
         'App\\Models\\User' => __DIR__ . '/../..' . '/app/Models/User.php',
         'App\\Providers\\AppServiceProvider' => __DIR__ . '/../..' . '/app/Providers/AppServiceProvider.php',
         'Attribute' => __DIR__ . '/..' . '/symfony/polyfill-php80/Resources/stubs/Attribute.php',

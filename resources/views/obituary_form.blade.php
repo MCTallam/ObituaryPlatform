@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+        <!--
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Obituary Form</title>
@@ -9,7 +10,6 @@
     <meta name="author" content="Your Website Name">
     <meta name="robots" content="index, follow">
 
-    <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
     <meta property="og:title" content="Obituary Form">
     <meta property="og:description" content="Submit an obituary to be listed on the website.">
@@ -17,12 +17,11 @@
     <meta property="og:url" content="https://yourwebsite.com/submit-obituary">
     <meta property="og:site_name" content="Your Website Name">
 
-    <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Obituary Form">
     <meta name="twitter:description" content="Submit an obituary to be listed on the website.">
     <meta name="twitter:image" content="URL_to_image.jpg">
-
+-->
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
     

@@ -1,29 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <!--
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Obituary List</title>
 
-    <!-- Meta Tags -->
     <meta name="description" content="Explore a comprehensive list of obituaries, remembering those who have passed. Find detailed information including names, dates of birth and death, and authors of submissions.">
     <meta name="keywords" content="obituary, remembrance, memorial, death notices, life celebration">
     <meta name="author" content="Your Website Name">
     <meta name="robots" content="index, follow">
-    <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
     <meta property="og:title" content="Obituary List">
     <meta property="og:description" content="Explore a comprehensive list of obituaries, remembering those who have passed.">
     <meta property="og:image" content="URL_to_image.jpg">
     <meta property="og:url" content="https://yourwebsite.com/obituaries">
     <meta property="og:site_name" content="Your Website Name">
-    <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Obituary List">
     <meta name="twitter:description" content="Explore a comprehensive list of obituaries, remembering those who have passed.">
     <meta name="twitter:image" content="URL_to_image.jpg">
 
-    <!-- Bootstrap CSS -->
+  -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom Styles -->
